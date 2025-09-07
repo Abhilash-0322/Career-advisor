@@ -18,7 +18,7 @@ export function FuturisticHeader() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
   const navItems = [
-    { name: 'Assessments', href: '/assessments' },
+    { name: 'Apptitude Test', href: '/aptitude' },
     { name: 'Courses', href: '/courses' },
     { name: 'Colleges', href: '/colleges' },
     { name: 'Timeline', href: '/timeline' },
